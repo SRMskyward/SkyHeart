@@ -1,0 +1,542 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d8c70a90-2f83-40bd-a7fc-ad87ab2dd751")
+	(paper "A4")
+	(lib_symbols)
+	(junction
+		(at 138.43 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "16049b75-2f23-46af-9c51-961b8eabdaed")
+	)
+	(junction
+		(at 162.56 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e00e346-6bdc-4358-aa1c-0cecc80ec836")
+	)
+	(junction
+		(at 165.1 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6a92b8a2-9bcf-44fa-9dbd-d384955557e7")
+	)
+	(junction
+		(at 160.02 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b60ef2f8-e7b0-4b40-9a89-0fe4cdfd1830")
+	)
+	(junction
+		(at 143.51 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9c916f1-c8da-4b5a-9802-becd74839e98")
+	)
+	(wire
+		(pts
+			(xy 170.18 96.52) (xy 165.1 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06b8d2f9-31b1-4e6f-bc41-49a8462820f1")
+	)
+	(wire
+		(pts
+			(xy 138.43 111.76) (xy 138.43 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ccc1acd-8b28-464b-b7a0-1e68c846a6d3")
+	)
+	(wire
+		(pts
+			(xy 143.51 107.95) (xy 170.18 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "425d673e-9e30-4191-9882-7a8fd2bfc570")
+	)
+	(wire
+		(pts
+			(xy 148.59 74.93) (xy 165.1 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46a63286-b15a-437b-be1c-1d3644da48c4")
+	)
+	(wire
+		(pts
+			(xy 160.02 101.6) (xy 160.02 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d9a50a6-3439-4978-9544-c1c1c965a88f")
+	)
+	(wire
+		(pts
+			(xy 138.43 101.6) (xy 138.43 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e0d291c-fbed-4503-8e94-fcb529fd3a47")
+	)
+	(wire
+		(pts
+			(xy 143.51 107.95) (xy 143.51 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6075c911-cd7e-4ba3-811b-2a12266a2de7")
+	)
+	(wire
+		(pts
+			(xy 160.02 80.01) (xy 170.18 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63c4a3bc-7783-43d9-a7d8-7fbfd16bc4d9")
+	)
+	(wire
+		(pts
+			(xy 148.59 80.01) (xy 160.02 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ba9c712-f102-4a3f-b594-df2b9a1057da")
+	)
+	(wire
+		(pts
+			(xy 165.1 74.93) (xy 170.18 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "719c9614-8569-4ab6-bf95-fe524cca905b")
+	)
+	(wire
+		(pts
+			(xy 165.1 96.52) (xy 165.1 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ca6f47a-b6fc-4320-aa60-7c6ea8799ff7")
+	)
+	(wire
+		(pts
+			(xy 170.18 101.6) (xy 160.02 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "932e8e10-222d-4e6d-ba7e-04ce8578cb67")
+	)
+	(wire
+		(pts
+			(xy 162.56 99.06) (xy 162.56 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a758f1ce-6819-4b9d-adab-8514fa4bc738")
+	)
+	(wire
+		(pts
+			(xy 148.59 77.47) (xy 162.56 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbfea1c0-ebf8-4c8f-9ca0-6c32078315da")
+	)
+	(wire
+		(pts
+			(xy 143.51 101.6) (xy 143.51 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c074c127-1bd1-4303-b7e2-e72e883bff86")
+	)
+	(wire
+		(pts
+			(xy 138.43 111.76) (xy 170.18 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1d84c01-ce33-4fa7-9f52-54eb13d999f6")
+	)
+	(wire
+		(pts
+			(xy 170.18 99.06) (xy 162.56 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2eef69d-1b2f-407c-9ed0-5429ec1a9d88")
+	)
+	(wire
+		(pts
+			(xy 162.56 77.47) (xy 170.18 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7645bba-c90c-4689-bb67-7984763265e1")
+	)
+	(sheet
+		(at 103.378 66.04)
+		(size 45.212 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6eb4ec9e-b00f-4f98-8e1d-301e06eca161")
+		(property "Sheetname" "MCU"
+			(at 103.378 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 103.378 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SCL" input
+			(at 143.51 101.6 270)
+			(uuid "b1c06ea6-8ba6-494a-a1e8-7efe284fcbff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDA" input
+			(at 138.43 101.6 270)
+			(uuid "c91826e9-06fc-4c5e-8402-83cff4aa5aad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MISO" input
+			(at 148.59 74.93 0)
+			(uuid "db127f48-b396-447d-8a0f-98bcae7ad488")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOSI" input
+			(at 148.59 77.47 0)
+			(uuid "5e034697-b61e-4666-a201-5bad2ed17995")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCK" input
+			(at 148.59 80.01 0)
+			(uuid "424eab26-c0d4-4d73-96a1-3e028a744368")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Skyfall_Avionic"
+				(path "/d8c70a90-2f83-40bd-a7fc-ad87ab2dd751"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 170.18 70.358)
+		(size 36.068 17.018)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "88f4f0be-be5b-416f-8474-6cbe4564008b")
+		(property "Sheetname" "LORA_&_FLASH"
+			(at 170.18 69.6464 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LORA.kicad_sch"
+			(at 170.18 87.9606 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MISO" input
+			(at 170.18 74.93 180)
+			(uuid "1a7c945a-90c3-4e07-ae41-a47c361b2240")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MOSI" input
+			(at 170.18 77.47 180)
+			(uuid "5d726af1-62bd-43dd-8f5f-fdb86b10ccb3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCK" input
+			(at 170.18 80.01 180)
+			(uuid "dcf2db56-fd97-48f7-ac80-ea66cfd22bf5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Skyfall_Avionic"
+				(path "/d8c70a90-2f83-40bd-a7fc-ad87ab2dd751"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 170.18 93.98)
+		(size 38.354 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "952cd320-9293-4a89-ba0d-4e9f0c8874b3")
+		(property "Sheetname" "Actionners_&_connectors"
+			(at 170.18 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "actionners.kicad_sch"
+			(at 170.18 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MISO" input
+			(at 170.18 96.52 180)
+			(uuid "be516645-2e7c-4426-8853-2dc2b6632dd1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MOSI" input
+			(at 170.18 99.06 180)
+			(uuid "2294df12-add4-47ec-9195-d3e2b29ce2fb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCK" input
+			(at 170.18 101.6 180)
+			(uuid "90df5e1e-b76d-4add-af88-35139479aece")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCL" input
+			(at 170.18 107.95 180)
+			(uuid "c9987b78-6f92-4995-a9bd-6366e852422e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDA" input
+			(at 170.18 111.76 180)
+			(uuid "5b9f4abf-b963-4e62-b0c4-518dbf24b7f8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Skyfall_Avionic"
+				(path "/d8c70a90-2f83-40bd-a7fc-ad87ab2dd751"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 118.11)
+		(size 40.64 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bbf0465e-0c81-4120-ab45-bba0e3956b37")
+		(property "Sheetname" "Sensors_&_GPS"
+			(at 121.92 117.3984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "samd21.kicad_sch"
+			(at 121.92 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SCL" input
+			(at 143.51 118.11 90)
+			(uuid "1596758a-c8b3-4291-9f4b-2f6946d947f3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA" input
+			(at 138.43 118.11 90)
+			(uuid "2197ea4b-e2f2-4438-928d-21cf55913a04")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Skyfall_Avionic"
+				(path "/d8c70a90-2f83-40bd-a7fc-ad87ab2dd751"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
